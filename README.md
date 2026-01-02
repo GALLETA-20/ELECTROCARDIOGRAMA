@@ -79,7 +79,7 @@ La pantalla ST7789 permite la visualización en tiempo real de la señal ECG, fa
 | CHIP SELECT | CS | 229 |
 | RETROILUMINACIÓN | BLK | 76 |
 
-
+Keep It Simple, Stupid (KISS)
 
 *Autor: URBINA ARÉVALO VITALY PAOLO (GALLETA)*
 
