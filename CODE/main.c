@@ -2,8 +2,8 @@
  * Proyecto: Detección de Anomalías Cardíacas
  * Archivo: main.c
  *
- * Autor: URBINA ARÉVALO VITALY PAOLO (GALLETA CON CHIPS).
- * Gmail: doritoscongalleta@gmail.com
+ * Autor: URBINA ARÉVALO VITALY PAOLO (GALLETA).
+ * Gmail: conchipsgalleta@gmail.com
  * Fecha de creación: 2026-01-01
  *
  * Descripción:
@@ -171,4 +171,5 @@ int main(void) {
     // close(spi_fd);
     return 0;
 }
+
 
